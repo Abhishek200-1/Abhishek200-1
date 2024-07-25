@@ -4,13 +4,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=abhishek200-1&label=Profile%20views&color=0e75b6&style=flat)
 
-<img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <div class="github-introduction">
 
 Im a **Web Developer** who loves to bring ideas to life in the browser. I grew up in the 90's early 2001's and fell in love with the internet. Therefore I am excited about designing and developing websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. Also, I kind of want to bring back the 90's web design aesthetic. I think it was cool. 😎
 
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
+
 - 💬 Curious? Just ask!
 - 🔭 I’m currently working on **Payroll Management System**
 - 🌱 I’m currently learning **ReactJS , .Net**
