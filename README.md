@@ -22,7 +22,7 @@ Im a **Web Developer** who loves to bring ideas to life in the browser. I grew u
 <div class="badges-intro">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=#DD0031)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#DD0031)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=#777BB4)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
